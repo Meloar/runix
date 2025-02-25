@@ -1,0 +1,2 @@
+C:/Users/Kaneki/Development/projects/2025/runix_project/android/app/.cxx/Debug/221s3g4q/x86/CMakeFiles/edit_cache.dir
+C:/Users/Kaneki/Development/projects/2025/runix_project/android/app/.cxx/Debug/221s3g4q/x86/CMakeFiles/rebuild_cache.dir
